@@ -1,5 +1,5 @@
 # Crazy Western
-A videogame programmed by Víctor Sánchez and David Roel, both students of Ironhack. This project is mainly coded in JavaScript, but it contains some HTML & CSS in order to make a proper presentation.
+A videogame programmed by David Roel and Víctor Sánchez, both students of Ironhack. This project is mainly coded in JavaScript, but it contains some HTML & CSS in order to make a proper presentation.
 
 ## A crazy game... Really
 This game was designed to be... different, unconventional. A cowboy in Mars has to save the babies that martians have stolen from the Earth. Stay alive while you encounter enemies and meteorites. Use the platforms to help yourself, and keep going until you find our "BIG" surprise :wink:
