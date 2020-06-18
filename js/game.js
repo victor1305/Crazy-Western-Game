@@ -7,7 +7,7 @@ const Game = {
     canvasDom: undefined,
     ctx: undefined,
     frames: 0,
-    framesFinal: 20000,
+    framesFinal: 6000,
     FPS: 60,
     music: new Audio("music/la_muerte_tenia_un_precio.mp3"),
     score: 0,
