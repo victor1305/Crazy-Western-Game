@@ -4,7 +4,7 @@ A videogame programmed by Víctor Sánchez and David Roel, both students of Iron
 ## A crazy game... Really
 This game was designed to be... different, unconventional. A cowboy in Mars has to save the babies that martians have stolen from the Earth. Stay alive while you encounter enemies and meteorites. Use the platforms to help yourself, and keep going until you find our "BIG" surprise :wink:
 
-You can play it [here]()
+You can play it [here](https://victor1305.github.io/Crazy-Western-Game/)
 
 ## Controls
 Quite simple!... Or not. We even have difficulties to win the game! but here are the controls anyway:
