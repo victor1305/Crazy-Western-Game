@@ -39,7 +39,7 @@ class Player {
         this.revolverCharger = 6
         this.frames = frames
 
-        this.playerLifes = 20
+        this.playerLifes = 10
         
         this.setListeners()
     }
